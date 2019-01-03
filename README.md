@@ -3,7 +3,7 @@ A step-by-step code guide for the Nature Catalysis paper (https://www.nature.com
 This project is for study use only, not for any commercial use.
 
 # Overview
-Software: Python;
+Software: Python
 
 Packages:
 
